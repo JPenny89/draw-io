@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:03:35.814Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5JMfm1id8oYL-9A6BZ6-" version="24.5.2" type="github">
+  <diagram name="Page-1" id="QxWBJM1XJGzlph5OFN4x">
+    <mxGraphModel dx="2049" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VzF7PWlAUvramZXXkXj8-1" value="Please agree to our terms of use" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=63;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="760" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-2" value="By continuing you agree to sign up to the Chip app." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="80" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-7" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 20px; line-height: normal; background-color: rgb(255, 255, 255);&quot;&gt;Receive emails and notifications from us about new features &amp;amp; updates.&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="200" y="305" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-8" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 20px; line-height: normal; background-color: rgb(255, 255, 255);&quot;&gt;I accept the Chip Terms of Use &amp;amp; Chip Privacy Notice.&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="200" y="445" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-9" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 20px; line-height: normal; background-color: rgb(255, 255, 255);&quot;&gt;I have read the FSCS information sheet.&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-10" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 20px;&quot;&gt;I agree that I have read the Privacy Policy, which has important information about how my personal data will be used by third parties and the potential impact.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=default;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="200" y="725" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-11" value="FSCS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="290" y="860" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VzF7PWlAUvramZXXkXj8-12" value="Sign up" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="760" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
